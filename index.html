@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Name Generator</title>
+</head>
+<body>
+<div class="form_div" id="form_div">
+    <form>
+        <label for="freeText">Free Text:</label>
+        <input type="text" id="freeText" name="freeText">
+
+        <label for="Personalization">Personalization:</label>
+        <select id="Personalization" name="Personalization"> </select>
+
+        <label for="ProductDesign">Product Design:</label>
+        <select id="ProductDesign" name="ProductDesign"> </select>
+
+        <label for="ProductType">Product Type:</label>
+        <select id="ProductType" name="ProductType"> </select>
+
+        <label for="ProductComponents">Product Components:</label>
+        <select id="ProductComponents" name="ProductComponents"> </select>
+
+        <label for="additionalSigns">Additional Signs:</label>
+        <select id="additionalSigns" name="additionalSigns"> </select>
+
+        <label for="carats">Carats:</label>
+        <select id="carats" name="carats"> </select>
+
+        <label for="StoneType">Stone Type:</label>
+        <select id="StoneType" name="StoneType"> </select>
+
+        <label for="MaterialType">Material Type:</label>
+        <select id="MaterialType" name="MaterialType"> </select>
+
+        <label for="Audience">Audience:</label>
+        <select id="Audience" name="Audience"> </select>
+
+        <button type="submit">Generate</button>
+    </form>
+</div>
+<br>
+<div class="form_div" id="result_div">
+    <table id="resultTable">
+        <thead>
+            <tr>
+                <th>Language</th>
+                <th>Generated Names</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
