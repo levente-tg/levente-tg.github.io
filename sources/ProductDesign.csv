@@ -1,15 +1,12 @@
 ﻿USA / CA;AU / IE / UK;DE / CH;FR;NL;SE;ES/MX;NO;DK;IT;FI
 ;;;;;;;;;;
-Font;Font;;;;;;;;;
 Cursive;Cursive;Kursive;Cursive;Cursieve;Kursiv;;Kursiv;Kursiv;Corsiva;
-in Cursive;in Cursive;in Kursivschrift  ;en Cursive;Cursieve;i Kursiv Stil;;i kursiv;på Kursiv;in Cursiva;
 Script;Script;Skript;Manuscrit;Script;Skrift;;Skrift;Skrift;Script;
 Twirl Script;Twirl Script;Twirl Skript;Script Twirl;Twirl Script;Virvelskrift;;Snirkelskrift;Snirklet Skrift;Script Twirl;
 Carrie;Carrie;Carrie;Carrie;Carrie;Carrie;;Carrie;Carrie;Carrie;
 Classic;Classic;Klassisch;Classique;Klassiek;Klassisk;;Klassisk;Klassisk;Classico;
 Signature;Signature;Signatur;Signature;Signatuur;Signatur;;Signatur;Signatur;Firma;
 Signature Style;Signature Style;im Signaturstil ;Style Signature;in Signatuurstijl;Signaturstil;;Signaturstil;Signaturstil;in Stile Firma;
-in Old English Style;in Old English Style;im altenglischen Stil;en Style Ancien Anglais;in Oud-Engelse Stijl;i Äldre Engelsk Stil ;;i Gammel Engelsk Stil;i Gammel Engelsk Stil;in Stile Old English;
 Angel Style;Angel Style;Engel-Stil;Style Ange;Engel ;Ängelstil;;Engelstil;Englestil;Stile Angel;
 Angel Numbers;Angel Numbers;Engelszahlen;Nombre d'Ange;Engelennummer;Änglanummer;;Engelnumre;Englenumre;Numeri Angelici;
 Roman Numeral;Roman Numeral;Römische Zahlen ;Chiffres Romains;Romeinse Cijfers;Romersk Siffer ;;Romertall;Romertal;Numero Romano;
@@ -17,7 +14,6 @@ Monogram;Monogram;Monogramm;Monogramme;Monogram;Monogram;;Monogram;Monogram;Mono
 Monogrammed;Monogrammed;Monogramm;Monogramme;Monogram;Monogram;;Monogramm;Monogrammeret;Monogrammato;
 Arabic;Arabic;Arabisch;Arabe;Arabisch;Arabiska;;Arabisk;Arabisk;Arabo;
 Cut Out;Cut Out;Ausgeschnitten;Découpé;Uitgesneden;Utskuren;;Utskjæring;Udklip;Ritagliato;
-Design;Design;Design;Design;Ontwerp;Design;;;;;
 Infinity;Infinity;Infinity;Infini;Infinity;Infinity;;Infinity;Infinity;Infinito;
 Vertical Infinity;Vertical Infinity;Vertikale Infinity;Infini Vertical;Verticale Infinity;Vertikal Infinity;;Vertikal Infinity;Vertikal Infinity;Infinito Verticale;
 Heart Infinity;Heart Infinity;Herz-Infinity;Cœur Infini;Infinity Hart;Hjärta-Infinity;;Hjerte-Infinity;Hjerte-Infinity;Cuore Infinito;
@@ -40,7 +36,6 @@ Family Rings;Family Rings;Familienringe;Anneaux familiaux;Familieringen;Familjer
 Tree of Life;Tree of Life;Lebensbaum;Arbre de Vie;Levensboom;Livets träd;;Livets Tre;Livets træ;Albero della Vita;
 Circle Tree of Life;Circle Tree of Life;Lebensbaumkreis;Cercle Arbre de Vie;Cirkel Levensboom;Livets Träd Cirkel;;Livets Tre-Sirkel;Livets Træ-Cirkel;Cerchio dell'Albero della Vita;
 Russian Ring;Russian Ring;Russischer Ring;Anneau Russe;Russische Ring;Rysk Ring;;Russisk Ring;Russisk Ring;Anello Russo;
-with 2 Russian Rings;with 2 Russian Rings;mit 2 russischen Ringen;avec 2 Anneaux Russes;met 2 Russische Ringen;med 2 Ryska Ringar;;med 2 Russiske Ringer;med 2 Russiske Ringe;con 2 Anelli Alla Russa;
 V-Bar;V-Bar;V-Stab;Barre V;V-Bar;V-Stav;;V-Stav;V-Stav;V-Bar;
 Xylophone Bar;Xylophone Bar;Xylophone Barren;Barre Xylophone;Xylofoon Bar;Xylofonstav;;Xylofonstav;Xylofonstav;Barra dello Xilofono;
 Hexagon Bar;Hexagon Bar;Sechseck Barren;Barre Hexagone;Hexagon Bar;Hexagonstav;;Heksagonstav;Heksagonstav;Barra Esagonale;
