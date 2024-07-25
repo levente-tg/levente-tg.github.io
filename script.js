@@ -39,6 +39,7 @@ var options = [
     "ProductDesign",
     "ProductType",
     "ProductComponents",
+    "Carats",
     "StoneType",
     "MaterialType",
     "Audience"
@@ -199,7 +200,10 @@ function genderlessGen(language, formData) {
         var optionTemp = getOptionTemp(option);
         var languageIndex = optionTemp[0].indexOf(language);
         var selectedIndex = findSelectedIndex(optionTemp, option, formData);
-        generatedTemp += ' ' + optionTemp[selectedIndex][languageIndex];
+        if (optionTemp[selectedIndex][languageIndex] != undefined) {
+            generatedTemp += ' ' + optionTemp[selectedIndex][languageIndex];
+        }
+        
     });
 
     nameTemp.push(generatedTemp);
