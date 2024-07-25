@@ -169,7 +169,7 @@ function genderedGen(language, formData) {
         var selectedIndex = findSelectedIndex(optionTemp, option, formData);
         var selectedText = optionTemp[selectedIndex][languageIndex];
 
-        if (selectedText != ''){
+        if (selectedText != undefined){
             if (selectedText.includes('#')) {
                 selectedText.split('#').forEach(function(part) {
                     var splitPart = part.split('@');
