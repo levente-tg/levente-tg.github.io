@@ -169,20 +169,22 @@ function genderedGen(language, formData) {
         var selectedIndex = findSelectedIndex(optionTemp, option, formData);
         var selectedText = optionTemp[selectedIndex][languageIndex];
 
-        if (selectedText.includes('#')) {
-            selectedText.split('#').forEach(function(part) {
-                var splitPart = part.split('@');
-                if (splitPart[0] === genderVariable) {
-                    generatedTemp += ' ' + splitPart[1];
-                }
-            });
-        } else if (selectedText.includes('@')) {
-            var splitTemp = selectedText.split('@');
-            generatedTemp += ' ' + splitTemp[1];
-        } else {
-            generatedTemp += ' ' + selectedText;
-        }
-    });
+        if (selectedText != ''){
+            if (selectedText.includes('#')) {
+                selectedText.split('#').forEach(function(part) {
+                    var splitPart = part.split('@');
+                    if (splitPart[0] === genderVariable) {
+                        generatedTemp += ' ' + splitPart[1];
+                    }
+                });
+            } else if (selectedText.includes('@')) {
+                var splitTemp = selectedText.split('@');
+                generatedTemp += ' ' + splitTemp[1];
+            } else {
+                generatedTemp += ' ' + selectedText;
+            }
+        });
+    };
 
     nameTemp.push(generatedTemp);
     return nameTemp;
