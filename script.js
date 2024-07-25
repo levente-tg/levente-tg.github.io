@@ -183,8 +183,9 @@ function genderedGen(language, formData) {
             } else {
                 generatedTemp += ' ' + selectedText;
             }
+            };
         });
-    };
+    
 
     nameTemp.push(generatedTemp);
     return nameTemp;
