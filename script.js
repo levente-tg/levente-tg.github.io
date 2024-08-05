@@ -6,7 +6,7 @@ var supportedLang = {
     "AU / IE / UK" : true,
     "DE / CH" : true,
     "FR" : false,
-    "NL" : false,
+    "NL" : true,
     "SE" : false,
     "ES/MX" : false,
     "NO" : false,
